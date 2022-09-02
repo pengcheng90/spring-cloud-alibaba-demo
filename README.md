@@ -1,9 +1,9 @@
 # spring-cloud-alibaba-demo
 
-## feign: 服务提供者
-## consumer: 服务消费者
-## sentinel: SentinelResource注解用来标识资源是否被限流、降级, 适配Feign，RestTemplate，动态数据源支持，Zuul，SpringCloudGateway
-## feign: 声明式调用
+#### feign: 服务提供者
+#### consumer: 服务消费者
+#### sentinel: SentinelResource注解用来标识资源是否被限流、降级, 适配Feign，RestTemplate，动态数据源支持，Zuul，SpringCloudGateway
+#### feign: 声明式调用
 
 
 
