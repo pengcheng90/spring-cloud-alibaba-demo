@@ -6,6 +6,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
+/**
+ * wegt http://127.0.0.1:10084/test/app-name 测试feign
+ */
 @RestController
 public class FeignTestController {
 

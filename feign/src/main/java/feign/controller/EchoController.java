@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * 作为服务提供者给feign测试
+ * 做为服务提供者给feign测试
  */
 @RestController
 public class EchoController {
