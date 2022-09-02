@@ -18,6 +18,7 @@
         <module>provider</module>
         <module>consumer</module>
         <module>sentinel</module>
+        <module>feign</module>
     </modules>
 
     <properties>
